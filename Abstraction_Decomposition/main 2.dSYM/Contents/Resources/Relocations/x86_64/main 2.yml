@@ -1,0 +1,19 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/lovishbains/Downloads/main 2'
+relocations:
+  - { offsetInCU: 0xB3, offset: 0xB3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B34, symSize: 0x95 }
+  - { offsetInCU: 0xFF, offset: 0xFF, size: 0x8, addend: 0x0, symName: _head, symObjAddr: 0x18C0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x116, offset: 0x116, size: 0x8, addend: 0x0, symName: _tail, symObjAddr: 0x18C8, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: _getCard, symObjAddr: 0x2B9, symBinAddr: 0x100003DED, symSize: 0x81 }
+  - { offsetInCU: 0x1B6, offset: 0x1B6, size: 0x8, addend: 0x0, symName: _extractCardFromString, symObjAddr: 0x218, symBinAddr: 0x100003D4C, symSize: 0xA1 }
+  - { offsetInCU: 0x1BE, offset: 0x1BE, size: 0x8, addend: 0x0, symName: _getCard, symObjAddr: 0x2B9, symBinAddr: 0x100003DED, symSize: 0x81 }
+  - { offsetInCU: 0x20B, offset: 0x20B, size: 0x8, addend: 0x0, symName: _getCardNode, symObjAddr: 0x1C9, symBinAddr: 0x100003CFD, symSize: 0x4F }
+  - { offsetInCU: 0x213, offset: 0x213, size: 0x8, addend: 0x0, symName: _extractCardFromString, symObjAddr: 0x218, symBinAddr: 0x100003D4C, symSize: 0xA1 }
+  - { offsetInCU: 0x268, offset: 0x268, size: 0x8, addend: 0x0, symName: _addNodeToList, symObjAddr: 0x183, symBinAddr: 0x100003CB7, symSize: 0x46 }
+  - { offsetInCU: 0x270, offset: 0x270, size: 0x8, addend: 0x0, symName: _getCardNode, symObjAddr: 0x1C9, symBinAddr: 0x100003CFD, symSize: 0x4F }
+  - { offsetInCU: 0x2C6, offset: 0x2C6, size: 0x8, addend: 0x0, symName: _buildLinkedListFromString, symObjAddr: 0x95, symBinAddr: 0x100003BC9, symSize: 0xEE }
+  - { offsetInCU: 0x2CE, offset: 0x2CE, size: 0x8, addend: 0x0, symName: _addNodeToList, symObjAddr: 0x183, symBinAddr: 0x100003CB7, symSize: 0x46 }
+  - { offsetInCU: 0x341, offset: 0x341, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B34, symSize: 0x95 }
+  - { offsetInCU: 0x349, offset: 0x349, size: 0x8, addend: 0x0, symName: _buildLinkedListFromString, symObjAddr: 0x95, symBinAddr: 0x100003BC9, symSize: 0xEE }
+...
