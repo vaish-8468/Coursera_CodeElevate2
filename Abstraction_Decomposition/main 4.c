@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: <your name here>
+ * Author: <Vartika Vaish>
  */
 
 #define _CRT_SECURE_NO_WARNINGS
